@@ -1,4 +1,4 @@
-rootProject.name = "MetatransApps_Android_APK_2DBalloons_Ads_Home"
+rootProject.name = "MetatransApps_Android_APK_2DBalloons"
 
 include ':app'
 include ':MetatransApps_Android_LIB_Commons'
