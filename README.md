@@ -1,6 +1,6 @@
 # License
 
-Th license is GPL-2.0-only
+The license is GPL-2.0-only
 
 # Overview
 
