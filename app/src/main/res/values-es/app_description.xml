@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+        <string name="app_name">Disparar las Bolas</string>
+        
+        <string name="app_html_desc_short">
+        <![CDATA[
+        
+¡Juega con pelotas!
+Dispara a las bolas. Muchos niveles.
+
+        		]]>
+    </string>
+    
+    
+    <string name="app_html_desc">
+        <![CDATA[
+        
+Inspirados por bolas de colores, creamos un juego para disparar estas bolas. El objetivo es disparar a todos y avanzar a través de los niveles.
+Después de cada nivel, las bolas se vuelven un poco más rápidas y el número de ellas aumenta.
+Este juego puede hacerte descansar y pasar un rato.
+
+El juego es compatible con diferentes niveles de juego, así como con otras características, como:
+1. Puntuaciones altas: realiza un seguimiento de tu mejor resultado.
+2. Soporta diferentes paletas de colores para diferentes gustos.
+3. Soporta tabletas y teléfonos.
+4. Dificultades crecientes.
+
+Sus comentarios son más que bienvenidos.
+
+        ]]>
+    </string>
+    
+    <string name="app_html_keywords">
+        <![CDATA[
+         	Maze, Labyrinth, Squirrel, Exit, Key, Game, Play
+                ]]>
+    </string>
+    
+</resources>

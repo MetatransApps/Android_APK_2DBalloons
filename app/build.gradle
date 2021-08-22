@@ -1,0 +1,38 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    compileSdkVersion 30
+    buildToolsVersion "30.0.3"
+
+    defaultConfig {
+        applicationId "com.stoptheballs"
+        minSdkVersion 23
+        targetSdkVersion 30
+        versionCode 104
+        versionName "1.0.4"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
+
+dependencies {
+
+    implementation project(":MetatransApps_Android_LIB_Commons")
+    implementation project(":MetatransApps_Android_LIB_CommonsAds")
+    implementation project(":MetatransApps_Android_LIB_Commons2D")
+    implementation project(":MetatransApps_Android_LIB_2DBalloons")
+
+}
