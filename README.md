@@ -16,4 +16,4 @@ The dependencies are these 4 repositories:
   -  https://github.com/bagaturchess/MetatransApps_Android_LIB_2DBalloons
 
 Just pull all these 5 repositories (the current one + the 4 dependencies) in one and the same directory.
-Then the structure could be imported in Android Studio or th eGradle build could be started manually.
+Then the structure could be imported in Android Studio or the Gradle build could be started manually.
