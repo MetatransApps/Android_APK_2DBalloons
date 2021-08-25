@@ -1,0 +1,9 @@
+<p>Do you like plain offline 2D shooting games with pied balloons? Give it a try! This simple and old school offline shooting game can wake you up. The game is designed for kids but could be played by adults as well. Inspired by colorful balloons, we created а shooting game, which is very straightforward. The goal is to shoot all coming motley balloons in the screen. You have to shoot them all and to go forward through the levels. After each level the balloons become a bit faster and theirs count is increasing.</p>
+<p>The game is supporting different playing levels as well as more other features, like:</p>
+<ol>
+<li>High scores - keeps track of your best result.</li>
+<li>Supports different color palettes for different tastes.</li>
+<li>Supports tablets and phones.</li>
+<li>Increasing difficulties.</li></ol>
+
+<p>Your feedback and/or review is more than welcome.</p>
