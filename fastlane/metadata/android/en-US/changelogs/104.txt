@@ -1,0 +1,1 @@
+Technical debt: Migration of the development environment, from Eclipse to Android Studio
