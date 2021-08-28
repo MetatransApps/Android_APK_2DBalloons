@@ -35,8 +35,6 @@
         android:name="com.stoptheballs.app.Application_StopTheBalls_APK">
 
 
-        <meta-data android:name="com.google.android.gms.ads.APPLICATION_ID" android:value="ca-app-pub-5558070192233978~6160250603"/>
-        
         <activity
   			android:name="com.apps.mobile.android.commons.web.Activity_WebView_StatePreservingImpl_With_VideoPlayer"
   			android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
@@ -149,12 +147,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        
-        
-        <!-- Admob -->
-        <activity android:name="com.google.android.gms.ads.AdActivity"
-             android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
-             android:theme="@android:style/Theme.Translucent" />
 		
     </application>
 
