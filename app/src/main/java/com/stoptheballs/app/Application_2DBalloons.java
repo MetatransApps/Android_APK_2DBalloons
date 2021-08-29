@@ -6,7 +6,7 @@ import com.apps.mobile.android.commons.cfg.appstore.IAppStore;
 import com.stoptheballs.cfg.ads.AdsConfigurations_StopTheBalls;
 
 
-public class Application_StopTheBalls_APK extends Application_StopTheBalls {
+public class Application_2DBalloons extends Application_StopTheBalls {
 
 
 	@Override

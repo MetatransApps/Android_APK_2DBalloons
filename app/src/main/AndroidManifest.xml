@@ -32,7 +32,7 @@
         android:icon="@drawable/ic_logo_balls"
         android:label="@string/app_name"
         android:theme="@style/AppTheme"
-        android:name="com.stoptheballs.app.Application_StopTheBalls_APK">
+        android:name="com.stoptheballs.app.Application_2DBalloons">
 
 
         <activity
