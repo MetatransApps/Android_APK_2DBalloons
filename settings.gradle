@@ -1,12 +1,12 @@
-rootProject.name = "MetatransApps_Android_APK_2DBalloons"
+rootProject.name = "Android_APK_2DBalloons"
 
 include ':app'
-include ':MetatransApps_Android_LIB_Commons'
-include ':MetatransApps_Android_LIB_CommonsAds'
-include ':MetatransApps_Android_LIB_Commons2D'
-include ':MetatransApps_Android_LIB_2DBalloons'
+include ':Android_LIB_Commons'
+include ':Android_LIB_CommonsAds'
+include ':Android_LIB_Commons2D'
+include ':Android_LIB_2DBalloons'
 
-project(':MetatransApps_Android_LIB_Commons').projectDir = new File('./../MetatransApps_Android_LIB_Commons/app')
-project(':MetatransApps_Android_LIB_CommonsAds').projectDir = new File('./../MetatransApps_Android_LIB_CommonsAds/app')
-project(':MetatransApps_Android_LIB_Commons2D').projectDir = new File('./../MetatransApps_Android_LIB_Commons2D/app')
-project(':MetatransApps_Android_LIB_2DBalloons').projectDir = new File('./../MetatransApps_Android_LIB_2DBalloons/app')
+project(':Android_LIB_Commons').projectDir = new File('./../Android_LIB_Commons/app')
+project(':Android_LIB_CommonsAds').projectDir = new File('./../Android_LIB_CommonsAds/app')
+project(':Android_LIB_Commons2D').projectDir = new File('./../Android_LIB_Commons2D/app')
+project(':Android_LIB_2DBalloons').projectDir = new File('./../Android_LIB_2DBalloons/app')
