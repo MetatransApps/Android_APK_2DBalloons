@@ -4,9 +4,9 @@ include ':app'
 include ':Android_LIB_Commons'
 include ':Android_LIB_CommonsAds'
 include ':Android_LIB_Commons2D'
-include ':Android_LIB_2DBalloons'
+include ':Android_APP_2DBalloons'
 
 project(':Android_LIB_Commons').projectDir = new File('./../Android_LIB_Commons/app')
 project(':Android_LIB_CommonsAds').projectDir = new File('./../Android_LIB_CommonsAds/app')
 project(':Android_LIB_Commons2D').projectDir = new File('./../Android_LIB_Commons2D/app')
-project(':Android_LIB_2DBalloons').projectDir = new File('./../Android_LIB_2DBalloons/app')
+project(':Android_APP_2DBalloons').projectDir = new File('./../Android_APP_2DBalloons/app')
