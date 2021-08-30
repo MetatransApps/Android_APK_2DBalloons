@@ -1,11 +1,11 @@
-package org.metatransapps.apps.balloons.cfg.ads;
+package org.metatrans.apps.balloons.cfg.ads;
 
 
-import org.metatransapps.commons.ads.api.IAdsConfiguration;
-import org.metatransapps.commons.ads.api.IAdsConfigurations;
-import org.metatransapps.commons.ads.api.IAdsProviders;
-import org.metatransapps.commons.ads.impl.IAdsContainer;
-import org.metatransapps.commons.ads.impl.providers.home_ads.AdsContainer_HomeAds;
+import org.metatrans.commons.ads.api.IAdsConfiguration;
+import org.metatrans.commons.ads.api.IAdsConfigurations;
+import org.metatrans.commons.ads.api.IAdsProviders;
+import org.metatrans.commons.ads.impl.IAdsContainer;
+import org.metatrans.commons.ads.impl.providers.home_ads.AdsContainer_HomeAds;
 
 import android.content.Context;
 
