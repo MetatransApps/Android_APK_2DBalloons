@@ -1,13 +1,13 @@
 package com.stoptheballs.cfg.ads;
 
 
-import android.content.Context;
+import org.metatransapps.commons.ads.api.IAdsConfiguration;
+import org.metatransapps.commons.ads.api.IAdsConfigurations;
+import org.metatransapps.commons.ads.api.IAdsProviders;
+import org.metatransapps.commons.ads.impl.IAdsContainer;
+import org.metatransapps.commons.ads.impl.providers.home_ads.AdsContainer_HomeAds;
 
-import com.apps.mobile.android.commons.ads.api.IAdsConfiguration;
-import com.apps.mobile.android.commons.ads.api.IAdsConfigurations;
-import com.apps.mobile.android.commons.ads.api.IAdsProviders;
-import com.apps.mobile.android.commons.ads.impl.IAdsContainer;
-import com.apps.mobile.android.commons.ads.impl.providers.home_ads.AdsContainer_HomeAds;
+import android.content.Context;
 
 
 public class AdsConfigurations_StopTheBalls implements IAdsConfigurations {
