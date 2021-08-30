@@ -1,4 +1,4 @@
-package com.stoptheballs.cfg.ads;
+package org.metatransapps.apps.balloons.cfg.ads;
 
 
 import org.metatransapps.commons.ads.api.IAdsConfiguration;
