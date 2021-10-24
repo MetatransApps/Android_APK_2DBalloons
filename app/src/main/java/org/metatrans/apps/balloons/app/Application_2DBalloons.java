@@ -1,7 +1,6 @@
 package org.metatrans.apps.balloons.app;
 
 
-import org.metatrans.apps.balloons.app.Application_StopTheBalls;
 import org.metatrans.apps.balloons.cfg.ads.AdsConfigurations_StopTheBalls;
 import org.metatrans.commons.ads.api.IAdsConfigurations;
 import org.metatrans.commons.cfg.appstore.IAppStore;
