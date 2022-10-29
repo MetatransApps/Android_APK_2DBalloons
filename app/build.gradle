@@ -33,7 +33,7 @@ android {
         variant.outputs.all {
             println variant.name
             if (variant.name.contains("release")) {
-                outputFileName = new File("../../../../../../release", "com_stoptheballs_${variant.versionCode}_ads_home.apk")
+                outputFileName = new File("../../../../../../release", "com.stoptheballs_${variant.versionCode}_ads_home.apk")
                 println outputFileName
             }
         }
