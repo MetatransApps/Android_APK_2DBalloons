@@ -17,11 +17,14 @@ android {
     }
 
     buildTypes {
+
         release {
+
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
     }
+
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
@@ -29,15 +32,6 @@ android {
 
     namespace 'com.stoptheballs'
 
-    android.applicationVariants.all { variant ->
-        variant.outputs.all {
-            println variant.name
-            if (variant.name.contains("release")) {
-                outputFileName = new File("../../../../../../release", "com.stoptheballs_${variant.versionCode}_ads_home.apk")
-                println outputFileName
-            }
-        }
-    }
 }
 
 dependencies {
