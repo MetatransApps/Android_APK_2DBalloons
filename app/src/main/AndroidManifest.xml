@@ -55,6 +55,18 @@
 
 
         <activity
+            android:name="org.metatrans.apps.balloons.menu.Activity_Menu_WorldView"
+            android:label="@string/worldview"
+            android:theme="@style/AppTheme"
+            android:exported="false">
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+
+        <activity
             android:name="org.metatrans.apps.balloons.main.Activity_Result"
             android:icon="@drawable/ic_colours_tube"
             android:theme="@style/AppTheme"
