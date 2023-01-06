@@ -1,0 +1,1 @@
+Interstitial home ads are disabled on re-play button click.
