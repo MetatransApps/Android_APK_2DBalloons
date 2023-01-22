@@ -20,6 +20,7 @@
     <uses-feature android:name="android.hardware.touchscreen" android:required="true" />
 	
     <supports-screens android:smallScreens="true"
+                  android:largeHeap="true"
                   android:normalScreens="true"
                   android:largeScreens="true"
                   android:xlargeScreens="true"
