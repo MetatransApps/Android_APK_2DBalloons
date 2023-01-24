@@ -1,0 +1,1 @@
+The app is displaying many graphical assets (balloons, arrows, etc.) and needs more memory. The assets are resized to consume as less as possible memory and in the same time to look good. This version sets the android:largeHeap="true" so hopefully this will solve the out of memory issues on all devices.
