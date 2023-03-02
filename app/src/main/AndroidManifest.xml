@@ -20,7 +20,6 @@
     <uses-feature android:name="android.hardware.touchscreen" android:required="true" />
 	
     <supports-screens android:smallScreens="true"
-                  android:largeHeap="true"
                   android:normalScreens="true"
                   android:largeScreens="true"
                   android:xlargeScreens="true"
@@ -29,6 +28,7 @@
     
     <application
         android:allowBackup="true"
+        android:largeHeap="true"
         android:icon="@drawable/ic_logo_balls"
         android:label="@string/app_stb_name"
         android:theme="@style/AppTheme"
